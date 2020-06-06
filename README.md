@@ -1,8 +1,8 @@
 
 ### `Intro`
-Create files that have words that have the same ending as the valid extensions found on ovh.
+Create files that have words that have the same ending as the valid extensions found on ovh. The files have a max length of 6 on the words.
 
-example: audit .it could be "securityaud.it"
+Example: audit .it could be `"securityaud.it"`
 
 ### `Files`
 
